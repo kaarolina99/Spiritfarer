@@ -12,6 +12,10 @@ Gwen forteller deg at du har nok materiale for å lage et gjestehus. Dette bygge
 ![IMG_0247](https://github.com/kaarolina99/Spiritfarer/assets/151020852/1d6c1b7b-e1e1-4dd9-82d2-4a0b4b587f2b)
 
 ## Steg 2
-Du finner ut at Gwen er sulten, men du har ingen kjøkken du kan tilberede mat i. Hun forteller deg at du trenger skinnende manet géle til å bygge et kjøkken. Gå inn i huset ditt, og trykk på kart prosjektoren, gjennom dette kartet kan du sette seil til forskjellige steder. sett seil til en liten lilla øy som har maneter på seg. Prøv også å få fisket noe, du finneer et fiske sted på venstre båt kanten.
+Du finner ut at Gwen er sulten, men du har ingen kjøkken du kan tilberede mat i. Hun forteller deg at du trenger skinnende manet géle til å bygge et kjøkken. Gå inn i huset ditt, og trykk på kart prosjektoren, gjennom dette kartet kan du sette seil til forskjellige steder. Sett seil til en liten lilla øy som har maneter på seg. 
+
+![jelly-map](https://github.com/kaarolina99/Spiritfarer/assets/151020852/32daafe5-07f2-4010-9302-f97006c2c1d5)
+
+Prøv også å få fisket noe, du finneer et fiske sted på venstre båt kanten.
 
 ![IMG_0138](https://github.com/kaarolina99/Spiritfarer/assets/151020852/92a1c4b5-a14d-487b-b8f6-3b5cd7d21825)
