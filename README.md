@@ -18,8 +18,7 @@ Gwen forteller deg at du har nok materiale for å lage et gjestehus. Dette bygge
 ### A)
 Du finner ut at Gwen er sulten, men du har ingen kjøkken du kan tilberede mat i. Hun forteller deg at du trenger skinnende manet géle til å bygge et kjøkken. Gå inn i huset ditt, og trykk på kart prosjektoren, gjennom dette kartet kan du sette seil til forskjellige steder. Sett seil til en liten lilla øy som har maneter på seg. 
 
-NYTT KART BILDE!!!!!
-![jelly-map](https://github.com/kaarolina99/Spiritfarer/assets/151020852/32daafe5-07f2-4010-9302-f97006c2c1d5)
+![IMG_0363](https://github.com/kaarolina99/Spiritfarer/assets/151020852/fa4e3c85-b309-473c-9b66-d85e9e22a263)
 
 ### B)
 Prøv også å få fisket noe, du finneer et fiske sted på venstre båt kanten.
@@ -29,4 +28,21 @@ Prøv også å få fisket noe, du finneer et fiske sted på venstre båt kanten.
 ### C)
 Når du har ankommet manet øya, må du gå å snakke med Gwen for å goskjenne oppdraget. Du må gjøre deg klar for å fange maneter. Du fanger maneter ved å løpe og hoppe rundt. Det er viktig å fange de grønne manetene, for det er de som gir deg skinnende ment géle. De gule manetene gir det Glims, altså spill valutaen.
 
-BILDE AV BRIGHT JELLY FANGING!!!!!
+![IMG_0362](https://github.com/kaarolina99/Spiritfarer/assets/151020852/51fe53ec-44f6-4782-8295-7138fc5be8bd)
+
+### D)
+
+Nå som du har fanget skinnende manet géle, kan du bygge ett kjøkken. Gå å snakk med Gwen. Hun gir deg mais du kan lage popkorn av. Gå inn på kjøkkenet, trykk på ovnen, legg inn maisen og vent til det kommer en plinge lyd fra klokken, da vet du maten er ferdig.
+![IMG_0360](https://github.com/kaarolina99/Spiritfarer/assets/151020852/2885feba-fdf3-4d84-9e39-eef85e9406fe)
+![IMG_0356](https://github.com/kaarolina99/Spiritfarer/assets/151020852/ff0bac5b-ee3a-4b5c-a1ff-ebbedf60bce4)
+
+
+## Steg 3
+Du har nå fått et nytt sted på kartet, dra dit for å samle ressurser for et lite åker. For å gå av båten, må du gå på jollen som befinner seg på siden av den store båten.
+![IMG_0354](https://github.com/kaarolina99/Spiritfarer/assets/151020852/0b55d63b-0b33-449d-8867-ec4a96256637)
+![IMG_0350](https://github.com/kaarolina99/Spiritfarer/assets/151020852/4b744439-9987-4feb-9b5a-239f300dabf1)
+
+
+
+
+
