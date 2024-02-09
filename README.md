@@ -83,12 +83,12 @@ Nå du er tilbake på båten må du følge det blå utropstegnet til den høyre 
 ### A)
 Dra tilbake til Hummingberg. Du seiler gjennom en storm på veien til Hummingberg, der har du mulighet til å samle lyn i flasker, for å gjøre dette må du godkjenne oppdraget fra Atul (frosken). For å fange lyn, må du stelle deg der det kommer skinnende overflate, lynet kan oppstå forskjellige plasser på båten. Hvis du ikke rekker å stelle deg under et lyn, vil du ikke få samlet det.
 
-![IMG_0334](https://github.com/kaarolina99/Spiritfarer/assets/151020852/3d4a3271-0791-45e3-912d-49f2bcee1f39)
-
 ![IMG_0338](https://github.com/kaarolina99/Spiritfarer/assets/151020852/1f87641c-e162-49ff-9d5f-2ec127c81a16)
 
 ### B)
 Du har fått to "obols" fra Gwen og Atul, disse kan du brukke for å få ferdigeter som f.eks dobbel hopp. Du finner ett alter på Hummingberg, gå til den og bruk dine obols der. Etter at du har fått dobbel hopp, så må du hoppe opp til stigen som ligger ved Raccoon Inc. Deretter går du mot høyre til du finner en stige og går ned med. Der finner du en ånd sittende på en benk, snakk med den og dra tilbake til båten din.
+
+![IMG_0334](https://github.com/kaarolina99/Spiritfarer/assets/151020852/3d4a3271-0791-45e3-912d-49f2bcee1f39)
 
 ![IMG_0330](https://github.com/kaarolina99/Spiritfarer/assets/151020852/93958ec0-9eca-4adb-b909-d48a65b76cf9)
 
