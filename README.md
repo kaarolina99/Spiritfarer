@@ -1,5 +1,5 @@
 # Spiritfarer
-Veiledning for Spiritfarer. Samle inn to nye Spirits, Atul og Summer.
+Veiledning for Spiritfarer. Samle inn to nye ånder, Atul og Summer.
 
 ## Steg 1
 
@@ -31,7 +31,7 @@ Når du har ankommet manet øya, må du gå å snakke med Gwen for å godkjenne 
 ![IMG_0362](https://github.com/kaarolina99/Spiritfarer/assets/151020852/51fe53ec-44f6-4782-8295-7138fc5be8bd)
 
 ### D)
-Nå som du har fanget "bright jelly", kan du bygge ett kjøkken. Gå å snakk med Gwen. Hun gir deg mais du kan lage popkorn av. Gå inn på kjøkkenet, trykk på ovnen, legg inn maisen og vent til det kommer en plinge lyd fra klokken, da vet du maten er ferdig.
+Nå som du har fanget "bright jelly", kan du bygge ett kjøkken. Gå å snakk med Gwen. Hun gir deg mais du kan lage popkorn av. Gå inn på kjøkkenet, trykk på ovnen, så stek, legg inn maisen og vent til det kommer en plinge lyd fra klokken, da vet du at maten er ferdig.
 
 ![IMG_0360](https://github.com/kaarolina99/Spiritfarer/assets/151020852/2885feba-fdf3-4d84-9e39-eef85e9406fe)
 
@@ -39,7 +39,7 @@ Nå som du har fanget "bright jelly", kan du bygge ett kjøkken. Gå å snakk me
 
 
 ## Steg 3
-Du har nå fått et nytt sted på kartet, dra dit for å samle ressurser for et lite åker. For å gå av båten, må du gå på robåten som befinner seg på venstre siden av den store båten. Etter du er ferdig med å samle inn ressurser drar du tilbake til båten din og bygger et åker.
+Du har nå fått et nytt sted på kartet, dra dit for å samle ressurser for et lite åker. For å gå av båten, må du gå på robåten som befinner seg på venstre siden av den store båten. Etter du er ferdig med å samle inn ressurser drar du tilbake til robåten, som tar deg med til båten din. Bygg et åker.
 
 ![IMG_0354](https://github.com/kaarolina99/Spiritfarer/assets/151020852/0b55d63b-0b33-449d-8867-ec4a96256637)
 
@@ -68,7 +68,7 @@ Gå til kart prosjektoren, du har låst opp et nytt sted, Barkensheim Creek, set
 ## Steg 5
 
 ### A)
-Når du har ankommet Barkensheim Creek og tatt robåten, går du til høyre siden av øya der du finner en ånd. Snakk med den, deretter må du dykke for å hente sitronen de mistet, og snakk med dem når du har klart å hente sitronen. Gå tilbake til båten din.
+Når du har ankommet Barkensheim Creek og tatt robåten, går du til høyre siden av øya der du finner en ånd. Snakk med den, deretter må du dykke for å hente sitronen de mistet, og snakk med den når du har klart å hente sitronen. Gå tilbake til båten din.
 
 ![IMG_0344](https://github.com/kaarolina99/Spiritfarer/assets/151020852/f3130e1b-f47f-4f45-9df3-b1cc9fde4b83)
 
